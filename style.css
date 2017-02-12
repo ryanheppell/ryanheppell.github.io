@@ -1,0 +1,39 @@
+body {
+    padding: 0;
+    margin: 0;
+    overflow-y: scroll;
+    font-family: Cosmic sans-serif;
+    font-size: 22px;
+}
+
+#paw-prints{
+  margin: 25;
+}
+
+section {
+  padding: 25;
+  margin:0;
+  font-family: times;
+  font-size: 18px;
+}
+
+
+h1 {color: blue; background-color: white;}
+
+
+#doberman-photo{
+  border-radius: 25%;
+  margin: 25;
+}
+
+#pupcouple{
+  border-radius: 25%;
+  margin: 25;
+}
+
+
+textarea {
+width: 350px;
+height: 200px;
+margin: 25;
+}
